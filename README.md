@@ -45,7 +45,7 @@
 <div id="githubStatus" style="display:flex !important">
 <p style="display:inline-block">
   
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=min-log&show_icons=true&theme=cobalt)](https://github.com/min-log)
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=min-log&show_icons=true&theme=cobalt&include_all_commits=true)](https://github.com/min-log)
   
 </p>
 <p style="display:inline-block">
